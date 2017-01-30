@@ -1,0 +1,9 @@
+c:\users\user15\documents\visual studio 2015\Projects\ImageSplitter\ImageSplitter\bin\Debug\ImageSplitter.exe.config
+c:\users\user15\documents\visual studio 2015\Projects\ImageSplitter\ImageSplitter\obj\Debug\ImageSplitter.csprojResolveAssemblyReference.cache
+c:\users\user15\documents\visual studio 2015\Projects\ImageSplitter\ImageSplitter\obj\Debug\ImageSplitter.Form1.resources
+c:\users\user15\documents\visual studio 2015\Projects\ImageSplitter\ImageSplitter\obj\Debug\ImageSplitter.Properties.Resources.resources
+c:\users\user15\documents\visual studio 2015\Projects\ImageSplitter\ImageSplitter\obj\Debug\ImageSplitter.csproj.GenerateResource.Cache
+c:\users\user15\documents\visual studio 2015\Projects\ImageSplitter\ImageSplitter\bin\Debug\ImageSplitter.exe
+c:\users\user15\documents\visual studio 2015\Projects\ImageSplitter\ImageSplitter\bin\Debug\ImageSplitter.pdb
+c:\users\user15\documents\visual studio 2015\Projects\ImageSplitter\ImageSplitter\obj\Debug\ImageSplitter.exe
+c:\users\user15\documents\visual studio 2015\Projects\ImageSplitter\ImageSplitter\obj\Debug\ImageSplitter.pdb
